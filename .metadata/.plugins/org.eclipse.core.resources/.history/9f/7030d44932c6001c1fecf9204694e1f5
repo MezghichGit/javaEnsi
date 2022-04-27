@@ -1,0 +1,22 @@
+package ensi_seance2.polymorphisme;
+
+public class Animal {
+
+	static int nb; // attribut statique
+	String espece;  //attribut d'instance
+	public void info()  // méthode d'instance
+	{
+		System.out.println("Un animal");
+	}
+	
+	public static void manger() {  // méthode de classe
+		
+	}
+	public Animal() {
+		nb++;
+	}
+	
+	public Animal(String espece) {
+		nb++;
+	}
+}

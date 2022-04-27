@@ -1,0 +1,9 @@
+package ensi_seance2.polymorphisme;
+
+public class Animal {
+
+	public void info()
+	{
+		System.out.println("Un animal");
+	}
+}

@@ -1,0 +1,9 @@
+package ensi.app;
+
+public class Personne {
+	
+	//Les attributs
+	
+	String nom;
+
+}

@@ -1,0 +1,16 @@
+package ensi.app;
+
+public class Animal {
+	String espece;
+	int age;
+	double poids;
+	public Animal(String espece, int age, double poids) {
+		this.espece = espece;
+		this.age = age;
+		this.poids = poids;
+	}
+	
+	public Animal() {
+		
+	}
+}

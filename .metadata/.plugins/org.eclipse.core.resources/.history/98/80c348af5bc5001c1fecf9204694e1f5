@@ -1,0 +1,7 @@
+package ensi.utilitaire;
+
+public class Etudiant extends Personne{
+
+	private String nom;
+	String prenom;
+}

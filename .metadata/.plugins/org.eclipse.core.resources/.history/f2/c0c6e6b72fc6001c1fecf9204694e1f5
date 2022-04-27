@@ -1,0 +1,5 @@
+package ensi_seance2.polymorphisme;
+
+public class Chien extends Animal{
+
+}

@@ -1,0 +1,17 @@
+package ensi.app;
+
+public class Animal {
+	String espece;
+	int age;
+	double poids;
+	public Animal(String espece, int age, double poids) {
+		System.out.println("Constructeurs avec paramètres");
+		this.espece = espece;
+		this.age = age;
+		this.poids = poids;
+	}
+	
+	public Animal() {
+		System.out.println("Constructeurs par défaut");
+	}
+}

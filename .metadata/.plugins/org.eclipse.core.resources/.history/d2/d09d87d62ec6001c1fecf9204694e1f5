@@ -1,0 +1,17 @@
+package ensi_seance2.polymorphisme;
+
+import java.util.ArrayList;
+
+public class Main {
+
+	public static void main(String[] args) {
+		//Voiture v = new Voiture();
+		
+		//VoitureCourse vc = new VoitureCourse();
+		
+		ArrayList<Voiture> cars = new ArrayList<>();
+		cars.add(new VoitureCourse());
+		cars.add(new VoitureCitadine());
+	}
+
+}

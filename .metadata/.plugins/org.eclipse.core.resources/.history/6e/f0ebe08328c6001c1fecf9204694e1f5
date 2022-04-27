@@ -1,0 +1,10 @@
+package ensi_seance2.app;
+
+public class LesCollections {
+
+	public static void main(String[] args) {
+		ArrayList<String> names = new ArrayList<>();
+
+	}
+
+}

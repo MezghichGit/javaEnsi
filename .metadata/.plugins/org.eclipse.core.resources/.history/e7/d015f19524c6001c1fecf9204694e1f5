@@ -1,0 +1,13 @@
+package ensi_seance2.app;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		byte x = 10;
+		System.out.println(Byte.MAX_VALUE);
+		System.out.println(Byte.MIN_VALUE);
+
+	}
+
+}

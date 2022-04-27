@@ -1,0 +1,14 @@
+package ensi_seance2.polymorphisme;
+
+public class Animal {
+
+	public static int nb;
+	public void info()  // méthode d'instance
+	{
+		System.out.println("Un animal");
+	}
+	
+	public static void manger() {  // méthode de classe
+		
+	}
+}

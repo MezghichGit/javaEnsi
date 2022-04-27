@@ -1,0 +1,11 @@
+package ensi.app;
+
+public class Personne {
+	
+	//Les attributs d'instance
+	private String nom;
+	private int age;
+	private double moy;
+	private String email;
+
+}

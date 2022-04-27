@@ -1,0 +1,19 @@
+package ensi.app;
+
+import ensi.utilitaire.*;
+
+public class Principale {
+
+	public static void main(String[] args) {
+		/*System.out.println("Bonjour Java");
+		Personne p = new Personne();
+		p.nom="Amine";
+		p.email="amine.mezghich@gmail.com";*/
+		
+		Etudiant e = new Etudiant();
+		e.info();
+		//Chercheur c = new Chercheur();
+
+	}
+
+}

@@ -1,0 +1,6 @@
+package ensi.utilitaire;
+
+public class Etudiant {
+
+	private String nom;
+}

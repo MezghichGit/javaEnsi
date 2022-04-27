@@ -1,0 +1,14 @@
+package ensi.utilitaire;
+
+import ensi.app.Personne;
+
+public class Etudiant extends Personne{
+
+	private String nom;
+	String prenom;
+	
+	public void info()
+	{
+		
+	}
+}

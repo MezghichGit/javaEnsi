@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\amine\Desktop\JavaENSI\.metadata\.plugins\org.eclipse.jdt.core
+1158465285.index
+795981737.index
